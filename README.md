@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FazlullahBokhari
 - 👀 I’m interested in Data Science field
-- 🌱 I’m currently learning Deep learning and analytical tools 
+- 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on Youtube
 - 📫 How to reach me at fazlullahb@gmail.com/fazlullah2008499@st.jmi.ac.in/9873300865
 
