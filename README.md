@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fazlullahbokhari" alt="fazlullahbokhari" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/fazlullahb0" target="blank"><img src="https://img.shields.io/twitter/follow/fazlullahb0?logo=twitter&style=for-the-badge" alt="fazlullahb0" /></a> </p>
+
 - 🔭 I’m currently working on **Impelsys**
 
 - 💬 Ask me about **Machine Learning, Deep Learning, SQL etc.**
@@ -13,7 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/fazlullahb0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fazlullahb0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fazlullahbokhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fazlullahbokhari" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18838205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18838205" height="30" width="40" /></a>
+<a href="https://fb.com/fazlullahb0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fazlullahb0" height="30" width="40" /></a>
+<a href="https://instagram.com/fazlullahbokhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fazlullahbokhari" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/fazlullahbokhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fazlullahbokhari" height="30" width="40" /></a>
 </p>
 
