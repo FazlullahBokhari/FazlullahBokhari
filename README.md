@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine Learning, Deep Learning, SQL etc.**
 
-- 📫 How to reach me **azlullahb@gmail.com/fazlullah2008499@st.jmi.ac.in/9873300865**
+- 📫 How to reach me **fazlullahb@gmail.com/fazlullah2008499@st.jmi.ac.in/9873300865**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
